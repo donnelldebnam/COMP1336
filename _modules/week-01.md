@@ -4,7 +4,7 @@ title: Week 1 - C++ Syntax and Semantics
 
 8/29 
 : Tuesday
-: **Lecture 2**{: .label .label-purple } Lecture title
+: **Lecture 2**{: .label .label-purple } Strings, Char, Basic I/O
   : [\[Video\]](https://www.youtube.com/) [\[Slides\]](https://www.youtube.com/)
 : **HW 0 due**{: .label .label-red } [Introduce Yourself](https://edstem.org/us/courses/41440/lessons/72128/slides/384251)
 
@@ -15,6 +15,6 @@ title: Week 1 - C++ Syntax and Semantics
 
 8/31 
 : Thursday
-: **Lecture 3**{: .label .label-purple } Lecture title
+: **Lecture 3**{: .label .label-purple } Strings, Char, Basic I/O
   : [\[Video\]](https://www.youtube.com/) [\[Slides\]](https://www.youtube.com/)
 : **Quiz**{: .label .label-red } [Quiz 0](https://edstem.org/us/courses/41440/lessons/72128/slides/384251)
