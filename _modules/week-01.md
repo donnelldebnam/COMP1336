@@ -10,7 +10,8 @@ title: Week 0 - Introduction to Computer Science (C++)
 
 8/30
 : Wednesday
-  : **Lab 0 due**{: .label .label-red } [Hello World Program](https://edstem.org/us/courses/24341/lessons/42800)
+: **Lab 0 due**{: .label .label-red } [Hello World Program](https://edstem.org/us/courses/24341/lessons/42800)
+  : [\[Slides\]](https://www.slides.google.com/)
 
 8/31 
 : Thursday
