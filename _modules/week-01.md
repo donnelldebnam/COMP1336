@@ -10,6 +10,8 @@ title: Week 1 - C++ Syntax and Semantics
 
 8/30
 : Wednesday
+: **Lab 1**{: .label .label-green } [Data Types](https://edstem.org/us/courses/24341/lessons/42800)
+  : [\[Slides\]](https://www.slides.google.com/)
 : **Lab 0 due**{: .label .label-red } [Hello World Program](https://edstem.org/us/courses/24341/lessons/42800)
   : [\[Slides\]](https://www.slides.google.com/)
 
