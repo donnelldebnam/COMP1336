@@ -2,17 +2,18 @@
 title: Week 0 - Introduction to Computer Science (C++)
 ---
 
-8/22 
+8/29 
 : Tuesday
-: **Lecture 0**{: .label .label-purple } Intro to CS & Syllabus Review
-  : [\[Slides\]](https://drive.google.com/file/d/1FjUvUncS2aAtWGoW_3sBrioSPCDOVzOj/view?usp=sharing)
-: **Lab 0**{: .label .label-green } [Intro to C++](https://edstem.org/us/courses/24341/lessons/42800)
+: **Lecture 2**{: .label .label-purple } Lecture title
+  : [\[Video\]](https://www.youtube.com/) [\[Slides\]](https://www.youtube.com/)
+: **HW 0 due**{: .label .label-red } [Introduce Yourself](https://edstem.org/us/courses/41440/lessons/72128/slides/384251)
 
-8/24 
+8/30
+: Wednesday
+  : **Lab 0 due**{: .label .label-red } [Hello World Program](https://edstem.org/us/courses/24341/lessons/42800)
+
+8/31 
 : Thursday
-: **Lecture 1**{: .label .label-purple } Lecture Title
-  : [\[Video\]](https://www.youtube.com/watch?v=wnKVWWUm-mY&list=PL68vLg5ecQ42QAJ8_qAuNY-wRw7cqAwiC) [\[Slides\]](https://drive.google.com/file/d/18PgiKU3xBmlfLRF7b1Z7t4Tm9vDUhUdm/view?usp=sharing)
-
-8/25
-: Friday
-: **HW 0 Survey due**{: .label .label-red } [Introduce Yourself](https://edstem.org/us/courses/41440/lessons/72128/slides/384251)
+: **Lecture 3**{: .label .label-purple } Lecture title
+  : [\[Video\]](https://www.youtube.com/) [\[Slides\]](https://www.youtube.com/)
+: **Quiz**{: .label .label-red } [Quiz 0](https://edstem.org/us/courses/41440/lessons/72128/slides/384251)
