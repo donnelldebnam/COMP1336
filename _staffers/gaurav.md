@@ -2,7 +2,7 @@
 name: Gaurav Agarwal
 role: Teaching Assistant
 email: gkagarwal@google.com
-website: [Linkedin](https://linkedin.com/in/geekymonk)
+website: https://linkedin.com/in/geekymonk
 photo: gaurav.jpg
 ---
 
