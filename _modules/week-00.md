@@ -1,5 +1,5 @@
 ---
-title: Week 1 - [Title]
+title: Week 0 - Introduction to Computer Science (C++)
 ---
 
 8/22 

@@ -1,5 +1,5 @@
 ---
-title: Week 0 - Introduction to Computer Science (C++)
+title: Week 1 - C++ Syntax and Semantics
 ---
 
 8/29 
