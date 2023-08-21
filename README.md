@@ -20,4 +20,4 @@ COMP 1336 is an introductory class designed for students with no formal exposure
 See the [Syllabus page](syllabus.md) for more details on course policies.
 
 ## Course Materials
-Add content here.
+{% for module in site.modules %} {{ module }} {% endfor %}
