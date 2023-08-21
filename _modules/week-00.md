@@ -12,7 +12,7 @@ title: Week 0 - Introduction to Computer Science
 
 8/23
 : Wednesday
-: **Lab 0**{: .label .label-green } [Hello World Program](https://edstem.org/us/courses/41440/lessons/70330/slides/376323) 
+: **Lab 0**{: .label .label-green } [Hello World Program 👋](https://edstem.org/us/courses/41440/lessons/70330/slides/376323) 
   : [\[Slides\]](https://www.slides.google.com/)
 
 8/24 
