@@ -35,7 +35,7 @@ schedule:
       - name: Office Hours
         start: 3:30 PM
         end: 5:00 PM
-        location: TBD
+        location: S.R. Collins (SRC) 313
   - name: Wednesday
     events:
       - name: COMP 1121-P83
@@ -51,7 +51,7 @@ schedule:
       - name: Office Hours
         start: 2:00 PM
         end: 3:30 PM
-        location: TBD
+        location: S.R. Collins (SRC) 313
   - name: Thursday
     events:
       - name: COMP 1336-P02
@@ -67,6 +67,6 @@ schedule:
       - name: Office Hours
         start: 3:30 PM
         end: 5:00 PM
-        location: TBD
+        location: S.R. Collins (SRC) 313
   - name: Friday
 ---
