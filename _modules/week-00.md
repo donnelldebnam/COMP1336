@@ -5,7 +5,7 @@ title: Week 0 - Introduction to Computer Science
 8/22 
 : Tuesday
 : **Lecture 0**{: .label .label-purple } Welcome to Computer Science!
-  : [\[Video\]](https://www.youtube.com/) [\[Slides\]](https://www.slides.google.com/)
+  : [\[Video\]](https://www.youtube.com/watch?v=LBLDk-euCis&t=2812s) [\[Slides\]](https://www.slides.google.com/)
 : **HW 0**{: .label .label-green } [Introduce Yourself](https://edstem.org/us/courses/41440/lessons/72128/slides/384251)
 : **HW 0**{: .label .label-green } [Join me @ Office Hours](https://edstem.org/us/courses/41440/lessons/72128/slides/384250)
 : **HW 0**{: .label .label-green } [Join a Google TA @ Office Hours](https://edstem.org/us/courses/41440/lessons/72128/slides/396595)
