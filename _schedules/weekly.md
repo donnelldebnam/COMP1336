@@ -25,48 +25,48 @@ schedule:
       - name: COMP 1336-P02
         start: 11:00 AM
         end: 12:20 PM
-        location: TBD
+        location: SRC 226
 
       - name: COMP 1336-P03
         start: 2:00 PM
         end: 3:20 PM
-        location: TBD
+        location: SRC 210
 
       - name: Office Hours
         start: 3:30 PM
         end: 5:00 PM
-        location: S.R. Collins (SRC) 313
+        location: SRC 313
   - name: Wednesday
     events:
       - name: COMP 1121-P83
         start: 9:00 AM
         end: 10:50 AM
-        location: TBD
+        location: SRC 210
   
       - name: COMP 1121-P82
         start: 12:00 PM
         end: 1:50 PM
-        location: TBD
+        location: SRC 209
 
       - name: Office Hours
         start: 2:00 PM
         end: 3:30 PM
-        location: S.R. Collins (SRC) 313
+        location: SRC 313
   - name: Thursday
     events:
       - name: COMP 1336-P02
         start: 11:00 AM
         end: 12:20 PM
-        location: TBD
+        location: SRC 226
 
       - name: COMP 1336-P03
         start: 2:00 PM
         end: 3:20 PM
-        location: TBD
+        location: SRC 210
 
       - name: Office Hours
         start: 3:30 PM
         end: 5:00 PM
-        location: S.R. Collins (SRC) 313
+        location: SRC 313
   - name: Friday
 ---
