@@ -18,4 +18,4 @@ title: Week 0 - Introduction to Computer Science
 8/24 
 : Thursday
 : **Lecture 1**{: .label .label-purple } Getting Started with Programming
-  : [\[Video\]](https://www.youtube.com/watch?v=SfMrOnzBOng) [\[Slides\]](https://www.slides.google.com/)
+  : [\[Video\]](https://www.youtube.com/watch?v=SfMrOnzBOng) [\[Slides\]](https://edstem.org/us/courses/41440/lessons/72128/slides/402527)
