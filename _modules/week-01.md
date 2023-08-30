@@ -6,8 +6,8 @@ title: Week 1 - String, Char, Basic I/O
 : Tuesday
 : **HW 0 due**{: .label .label-red } [Introduce Yourself](https://edstem.org/us/courses/41440/lessons/72128/slides/384251)
 : **Lecture 2**{: .label .label-purple } String, Char, Basic I/O
-  : [\[Video\]](https://www.youtube.com/) [\[Slides\]](https://www.youtube.com/)
-: **HW 1**{: .label .label-green } [Data Types](https://edstem.org/us/courses/41440)
+  : [\[Video\]](https://www.youtube.com/watch?v=OBtRHjmfcEM) [\[Slides\]](https://edstem.org/us/courses/41440/lessons/70331/slides/404076)
+: **HW 1**{: .label .label-green } [Data Types](https://edstem.org/us/courses/41440/lessons/70331/slides/402532)
 
 8/30
 : Wednesday
