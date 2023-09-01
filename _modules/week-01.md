@@ -18,6 +18,6 @@ title: Week 1 - String, Char, Basic I/O
 
 8/31 
 : Thursday
-: **Quiz 0**{: .label .label-red } [C++ Program Setup, Output, and Data Types](https://edstem.org/us/courses/41440/)
+: **Quiz 0**{: .label .label-red } C++ Program Setup, Output, and Data Types
 : **Lecture 3**{: .label .label-purple } String, Char, Basic I/O
-  : [\[Video\]](https://www.youtube.com/) [\[Slides\]](https://edstem.org/us/courses/41440/)
+  : [\[Video\]](https://www.youtube.com/watch?v=hzsbn6XtB2E) [\[Slides\]](https://edstem.org/us/courses/41440/lessons/70331/slides/405088)
