@@ -7,13 +7,13 @@ title: Week 2 - String, Char, Basic I/O
 : **HW 1 due**{: .label .label-red } [Data Types](https://edstem.org/us/courses/41440/lessons/70331/slides/402532)
 : **Lecture 4**{: .label .label-purple } Lecture 4 Title
   : [\[Video\]](https://google.com) [\[Slides\]](https://google.com)
-: **HW 2**{: .label .label-green } [<name>](https://google.com)
+: **HW 2**{: .label .label-green } [HW2 Name](https://google.com)
 
 9/6
 : Wednesday
-: **Lab 1 due**{: .label .label-red } [<name>](https://edstem.org/us/courses/41440/lessons/74324/slides/403531)
+: **Lab 1 due**{: .label .label-red } [Codenames](https://edstem.org/us/courses/41440/lessons/74324/slides/404451)
   : [\[Slides\]](https://edstem.org/us/courses/41440/lessons/70330/slides/376323)
-: **Lab 2**{: .label .label-green } [<name>](https://google.com)
+: **Lab 2**{: .label .label-green } [Lab 2 Name](https://google.com)
   : [\[Slides\]](https://edstem.org/us/courses/41440/lessons/74324/slides/404451)
 : **Google Event**{: .label .label-yellow } Dinner, Networking & Resumes!
 
