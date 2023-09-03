@@ -1,5 +1,5 @@
 ---
-title: Week 2 - String, Char, Basic I/O
+title: User Input
 ---
 
 9/5 
