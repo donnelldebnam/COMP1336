@@ -7,7 +7,7 @@ title: User Input
 : **HW 1 due**{: .label .label-red } [Data Types](https://edstem.org/us/courses/41440/lessons/70331/slides/402532)
 : **Lecture 4**{: .label .label-purple } User Input
   : [\[Video\]](https://google.com) [\[Slides\]](https://google.com)
-: **HW 2**{: .label .label-green } [idk](https://google.com)
+: **HW 2**{: .label .label-green } [User Input](https://edstem.org/us/courses/41440/lessons/70332/slides/406256)
 
 9/6
 : Wednesday
