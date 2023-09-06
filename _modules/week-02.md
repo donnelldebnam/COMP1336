@@ -1,5 +1,5 @@
 ---
-title: User Input
+title: Week 2 - User Input
 ---
 
 9/5 
