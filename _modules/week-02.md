@@ -14,7 +14,7 @@ title: User Input
 : **Lab 1 due**{: .label .label-red } [Codenames](https://edstem.org/us/courses/41440/lessons/74324/slides/404451)
   : [\[Slides\]](https://edstem.org/us/courses/41440/lessons/70330/slides/376323)
 : **Lab 2**{: .label .label-green } [Recruitment](https://edstem.org/us/courses/41440/lessons/75000/slides/407182)
-  : [\[Slides\]](https://edstem.org/us/courses/41440/lessons/75000/slides/407183)
+  : [\[Slides\]](https://edstem.org/us/courses/41440/lessons/75000/slides/407311)
 : **Google Event**{: .label .label-yellow } Dinner, Networking & Resumes!
 
 9/7 
