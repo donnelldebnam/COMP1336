@@ -13,7 +13,7 @@ title: User Input
 : Wednesday
 : **Lab 1 due**{: .label .label-red } [Codenames](https://edstem.org/us/courses/41440/lessons/74324/slides/404451)
   : [\[Slides\]](https://edstem.org/us/courses/41440/lessons/70330/slides/376323)
-: **Lab 2**{: .label .label-green } [Codenames pt. 2](https://google.com)
+: **Lab 2**{: .label .label-green } [Recruitment](https://google.com)
   : [\[Slides\]](https://edstem.org/us/courses/41440/lessons/74324/slides/404451)
 : **Google Event**{: .label .label-yellow } Dinner, Networking & Resumes!
 
