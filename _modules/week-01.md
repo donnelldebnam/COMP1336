@@ -13,7 +13,7 @@ title: Week 1 - String, Char, Basic I/O
 : Wednesday
 : **Lab 0 due**{: .label .label-red } [Hello World Program 👋](https://edstem.org/us/courses/41440/lessons/70330/slides/376323)
   : [\[Slides\]](https://edstem.org/us/courses/41440/lessons/70330/slides/376323)
-: **Lab 1**{: .label .label-green } [Codenames](https://edstem.org/us/courses/41440/lessons/74324/slides/403531)
+: **Lab 1**{: .label .label-green } [Codenames](https://edstem.org/us/courses/41440/lessons/74324/slides/404451)
   : [\[Slides\]](https://edstem.org/us/courses/41440/lessons/74324/slides/404451)
 
 8/31 
