@@ -2,13 +2,17 @@
 title: Week 3 - More User Input & Arithmetic
 ---
 
+9/11
+: Monday
+: **Google Event**{: .label .label-yellow } STEP Virtual Info Session & Overview
+
 9/12 
 : Tuesday
 : **HW 2 due**{: .label .label-red } [User Input](https://edstem.org/us/courses/41440/lessons/70331/slides/402532)
 : **Lecture 6**{: .label .label-purple } Lecture 6 Title
   : [\[Video\]](https://www.youtube.com/watch?v=IIMqerzfx6k) [\[Slides\]](https://edstem.org/us/courses/41440/lessons/70332/slides/407211)
 : **HW 3**{: .label .label-green } [HW 3 Title](https://edstem.org/us/courses/41440/lessons/70332/slides/406879)
-: **Google Event**{: .label .label-yellow } STEP Virtual Info Session & Overview
+: **Google Event**{: .label .label-yellow } Tech Series: Building Apps from Scratch
 
 9/13
 : Wednesday
@@ -16,7 +20,6 @@ title: Week 3 - More User Input & Arithmetic
   : [\[Slides\]](https://edstem.org/us/courses/41440/lessons/70330/slides/376323)
 : **Lab 3**{: .label .label-green } [Lab 3](https://edstem.org/us/courses/41440/lessons/75000/slides/407182)
   : [\[Slides\]](https://edstem.org/us/courses/41440/lessons/75000/slides/407311)
-: **Google Event**{: .label .label-yellow } Dinner, Networking & Resumes!
 
 9/14 
 : Thursday
