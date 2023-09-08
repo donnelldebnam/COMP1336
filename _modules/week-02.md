@@ -1,5 +1,5 @@
 ---
-title: Week 2 - User Input
+title: Week 2 - User Input & Arithmetic
 ---
 
 9/5 
@@ -19,5 +19,5 @@ title: Week 2 - User Input
 
 9/7 
 : Thursday
-: **Lecture 5**{: .label .label-purple } idk yet, lol
-  : [\[Video\]](https://www.youtube.com/watch?v=hzsbn6XtB2E) [\[Slides\]](https://google.com)
+: **Lecture 5**{: .label .label-purple } More User Input & Style
+  : [\[Video\]](https://edstem.org/us/courses/41440/lessons/70332/slides/407602) [\[Slides\]](https://edstem.org/us/courses/41440/lessons/70332/slides/407603)
