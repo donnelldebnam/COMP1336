@@ -7,7 +7,7 @@ title: Week 4 - Conditionals & Logical Operators
 : **HW 3 due**{: .label .label-red } [Conditionals](https://edstem.org/us/courses/41440/lessons/70332/slides/406879)
 : **Lecture 8**{: .label .label-purple } Control Structures & Logical Operators
   : [\[Video\]](https://www.youtube.com/watch?v=IIMqerzfx6k) [\[Slides\]](https://edstem.org/us/courses/41440/lessons/70332/slides/407211)
-: **HW 4**{: .label .label-green } [Rock Paper Scissors](https://edstem.org/us/courses/41440/lessons/70332/slides/406879)
+: **HW 4**{: .label .label-green } [Rock Paper Scissors](https://edstem.org/us/courses/41440/lessons/75395/slides/410937)
 : **Google Event**{: .label .label-yellow } Tech Series: Software Engineering
 
 9/20
