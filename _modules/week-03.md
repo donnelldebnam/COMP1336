@@ -1,5 +1,5 @@
 ---
-title: Week 3 - More User Input & Arithmetic
+title: Week 3 - User Input & Arithmetic, and Relational Operators
 ---
 
 9/11

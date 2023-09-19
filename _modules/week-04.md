@@ -1,5 +1,5 @@
 ---
-title: Week 4 - Conditionals & Relation Operators
+title: Week 4 - Conditionals & Logical Operators
 ---
 
 9/19 
