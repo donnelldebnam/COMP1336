@@ -18,11 +18,11 @@ title: Week 3 - More User Input & Arithmetic
 : Wednesday
 : **Lab 2 due**{: .label .label-red } [Recruitment](https://edstem.org/us/courses/41440/lessons/75000/slides/407182)
   : [\[Slides\]](https://edstem.org/us/courses/41440/lessons/70330/slides/376323)
-: **Lab 3**{: .label .label-green } [Lab 3](https://edstem.org/us/courses/41440/lessons/75000/slides/407182)
-  : [\[Slides\]](https://edstem.org/us/courses/41440/lessons/75000/slides/407311)
+: **Lab 3**{: .label .label-green } [Scaling Up](https://edstem.org/us/courses/41440/lessons/75127/slides/408427)
+  : [\[Slides\]](https://edstem.org/us/courses/41440/lessons/75127/slides/409443)
 
 9/14 
 : Thursday
 : **Quiz 1**{: .label .label-red } User Input, Arithmetic, and String Manipulation
-: **Lecture 7**{: .label .label-purple } Conditionals
+: **Lecture 7**{: .label .label-purple } Conditionals (review)
   : [\[Video\]](https://edstem.org/us/courses/41440/lessons/70332/slides/407602) [\[Slides\]](https://edstem.org/us/courses/41440/lessons/70332/slides/407603)
