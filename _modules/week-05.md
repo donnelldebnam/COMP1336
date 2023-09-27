@@ -20,6 +20,7 @@ Seniors)
 
 9/28
 : Thursday
+: **Quiz 2**{: .label .label-red } Operators & Conditionals 
 : **Lecture 10**{: .label .label-purple } Nested While Loops
   : [\[Video\]](https://edstem.org/us/courses/41440/lessons/70332/slides/407602) [\[Slides\]](https://edstem.org/us/courses/41440/lessons/70332/slides/407603)
 : **Google Event**{: .label .label-yellow } Resume Review
