@@ -15,12 +15,11 @@ title: Week 5 - While Loops
 : **Lab 4 due**{: .label .label-red } [Escape!](https://edstem.org/us/courses/41440/lessons/75848/slides/411041)
   : [\[Slides\]](https://edstem.org/us/courses/41440/lessons/70330/slides/376323)
 : **Lab 5**{: .label .label-green } [Planning Ahead](https://edstem.org/us/courses/41440/lessons/76912/slides/414188)
-: **Google Event**{: .label .label-yellow } Info Session and Resume Workshop (Juniors and
-Seniors)
+: **Google Event**{: .label .label-yellow } Info Session and Resume Workshop (upperclassmen)
 
 9/28
 : Thursday
-: **Quiz 2**{: .label .label-red } Operators & Conditionals 
+: **Quiz 2**{: .label .label-red } Operators & Conditionals
 : **Lecture 10**{: .label .label-purple } Nested While Loops
-  : [\[Video\]](https://edstem.org/us/courses/41440/lessons/70332/slides/407602) [\[Slides\]](https://edstem.org/us/courses/41440/lessons/70332/slides/407603)
-: **Google Event**{: .label .label-yellow } Resume Review
+  : [\[Video\]](https://edstem.org/us/courses/41440/lessons/75847/slides/419906) [\[Slides\]](https://edstem.org/us/courses/41440/lessons/75847/slides/419905)
+: **Google Event**{: .label .label-yellow } ACM Technical Interview Prep
