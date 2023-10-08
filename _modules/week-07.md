@@ -10,7 +10,6 @@ title: Week 7 - Midterm Exam
 
 10/11
 : Wednesday
-  : [\[Slides\]](https://edstem.org/us/courses/41440/lessons/70330/slides/376323)
 : **Lab 5 due**{: .label .label-red } [Planning Ahead](https://edstem.org/us/courses/41440/lessons/76912/slides/414188)
 
 10/12
