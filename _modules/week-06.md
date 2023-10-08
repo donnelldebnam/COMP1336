@@ -21,5 +21,4 @@ title: Week 6 - For Loops
 
 10/5
 : Thursday
-: **Lecture 12**{: .label .label-purple } Nested For Loops
-  : [\[Video\]](https://edstem.org/us/courses/41440/lessons/75847/slides/419906) [\[Slides\]](https://edstem.org/us/courses/41440/lessons/75847/slides/419905)
+: **Lab 5 Codealong**{: .label .label-green } [Planning Ahead](https://edstem.org/us/courses/41440/lessons/76912/slides/414188)
