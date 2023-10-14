@@ -18,6 +18,7 @@ title: Week 6 - For Loops
 : Wednesday
   : [\[Slides\]](https://edstem.org/us/courses/41440/lessons/70330/slides/376323)
 : **Lab 5**{: .label .label-green } [Planning Ahead](https://edstem.org/us/courses/41440/lessons/76912/slides/414188)
+: **Google Event**{: .label .label-yellow } Technical Interview Prep
 
 10/5
 : Thursday
