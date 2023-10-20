@@ -10,7 +10,7 @@ title: Week 7 - Midterm Exam
 
 10/11
 : Wednesday
-: **Lab 5 due**{: .label .label-red } [Planning Ahead](https://edstem.org/us/courses/41440/lessons/76912/slides/414188)\
+: **Lab 5 due**{: .label .label-red } [Planning Ahead](https://edstem.org/us/courses/41440/lessons/76912/slides/414188)
 : **Google Event**{: .label .label-yellow } Technical Interview Prep
 
 10/12
