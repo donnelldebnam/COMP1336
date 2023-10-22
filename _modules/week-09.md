@@ -6,6 +6,7 @@ title: Week 9 - Wheel of Fortune
 : Tuesday
 : **Lecture 14**{: .label .label-purple } Wheel of Fortune
   : [\[Video\]](https://edstem.org/us/courses/41440/lessons/78775/slides/433107) [\[Slides\]](https://edstem.org/us/courses/41440/lessons/78775/slides/431977)
+: **HW 8 due**{: .label .label-red } [Functions](https://edstem.org/us/courses/41440/lessons/78775/slides/429537)
 : **HW 9**{: .label .label-green } [Wheel of Fortune](https://edstem.org/us/courses/41440/lessons/79347/slides/433945)
 : **Google Event**{: .label .label-yellow } Tech Series: Web Development / Accessibility
 
@@ -18,5 +19,5 @@ title: Week 9 - Wheel of Fortune
 
 10/26
 : Thursday
-: **Lecture 15**{: .label .label-purple } Continue, Break, and Early Return
+: **Lecture 15**{: .label .label-purple } Scope
   : [\[Video\]](https://edstem.org/us/courses/41440/lessons/78775/slides/433912) [\[Slides\]](https://edstem.org/us/courses/41440/lessons/78775/slides/433919)
